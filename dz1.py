@@ -1,3 +1,4 @@
+# Вычислние площади прямоугольника
 while True:
     user_inputA = input('Введите значение стороны 1: ')
     if float(user_inputA)>0:
