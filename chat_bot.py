@@ -1,3 +1,5 @@
+# chat-bot.py - Чат-бот с интенсива по Skillbox. По итогам данного интенсива выполнила одно из лучших домашних заданий.
+
 import nltk
 import random
 import requests
